@@ -6,6 +6,8 @@ plan:
   statement: markdowns/alternative2.md
 - title: Exercice 3
   statement: markdowns/alternative3.md
+- title: Introduction aux structures
+  statement: markdowns/introduction_struct.md
 - title: Exercice 4
   statement: markdowns/alternative4.md
 - title: Exercice 5
