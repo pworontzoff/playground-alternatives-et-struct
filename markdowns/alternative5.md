@@ -1,4 +1,4 @@
-# Exercice 6
+# Exercice 5
 
 Calculer les racines d’une équation du second degré.
 
