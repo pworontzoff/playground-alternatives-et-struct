@@ -1,4 +1,3 @@
 # Exercice 9
-
-Ecrire un fonction qui détermine le nombre de jours que comporte un mois donné en tenant compte des années bissextiles L'utilisateur donne un numéro de mois (entre 1 et 12 compris) et une année (entre 1600 et 2001).
+Cet exercice utilise les Papers animés : 
 
