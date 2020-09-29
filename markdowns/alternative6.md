@@ -1,4 +1,4 @@
-# Exercice 8
+# Exercice 6
 
 Tore et poussée d'Archimède
 
