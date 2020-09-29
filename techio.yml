@@ -1,4 +1,32 @@
-title: Simple C Template
+title: Les alternatives
 plan:
-- title: C Snippet
-  statement: statement.md
+- title: Exercice 1
+  statement: markdowns/alternative1.md
+- title: Exercice 2
+  statement: markdowns/alternative2.md
+- title: Exercice 3
+  statement: markdowns/alternative3.md
+- title: Exercice 4
+  statement: markdowns/alternative4.md
+- title: Exercice 5
+  statement: markdowns/alternative5.md
+- title: Exercice 6
+  statement: markdowns/alternative6.md
+- title: Exercice 7
+  statement: markdowns/alternative7.md
+- title: Exercice 8
+  statement: markdowns/alternative8.md
+- title: Exercice 9
+  statement: markdowns/alternative9.md
+- title: Exercice 10
+  statement: markdowns/alternative10.md
+- title: Exercice 11
+  statement: markdowns/alternative11.md
+- title: Exercice 12
+  statement: markdowns/alternative12.md
+projects:
+  exercices:
+    root: /exercices
+    runner:
+      name: techio/cmake-gcc-runner
+      version: latest
