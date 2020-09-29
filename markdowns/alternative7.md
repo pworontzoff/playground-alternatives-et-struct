@@ -1,4 +1,4 @@
-# Exercice 7
+# Exercice 9
 
-Cet exercice est à réaliser en se connectant à votre compte sur codingame : [TEMPERATURES](https://www.codingame.com/training/easy/temperatures)
+Ecrire un fonction qui détermine le nombre de jours que comporte un mois donné en tenant compte des années bissextiles L'utilisateur donne un numéro de mois (entre 1 et 12 compris) et une année (entre 1600 et 2001).
 

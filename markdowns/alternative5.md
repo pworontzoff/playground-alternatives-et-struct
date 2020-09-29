@@ -1,4 +1,13 @@
-# Exercice 5
+# Exercice 6
 
-Cet exercice est à réaliser en se connectant à votre compte sur codingame : [POWER OF THOR](https://www.codingame.com/training/easy/power-of-thor-episode-1)
+Calculer les racines d’une équation du second degré.
 
+```math
+ax^2 + bx + c = 0
+```
+```math
+\Delta = b^2 - 4ac 
+```
+```math
+x_1,x_2 = \frac{-b \pm \sqrt{\Delta}}{2a}
+```
