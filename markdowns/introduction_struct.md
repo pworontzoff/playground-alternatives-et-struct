@@ -11,7 +11,7 @@ struct date {
    int jour;
    int mois;
    int annee;
-}
+};
 ```
 
 La structure définie ci-dessus est composée de 3 parties. Il s'agit de 3 variables entière nommées `jour`, `mois` et `annee`.
@@ -69,9 +69,9 @@ int main() {
    creation.mois = 8;
    
    printf("choisir l'annee : ");
-   scanf("%d", creation.annee);
+   scanf("%d", &creation.annee);
    
-   printf("date de creation : %d/%d/%d\n",creation.jour, creation.mois, creation.annee);
+   printf("date de creation : %d/%d/%d\n", creation.jour, creation.mois, creation.annee);
 
    return 0;
 }
