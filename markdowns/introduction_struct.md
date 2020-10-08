@@ -60,7 +60,7 @@ struct date {
 	int jour;
 	int mois;
 	int annee;
-}
+};
 
 int main() {
    struct date creation;
