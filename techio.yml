@@ -18,7 +18,8 @@ plan:
   statement: markdowns/alternative7.md
 - title: Exercice 8 sur 9
   statement: markdowns/alternative8.md
-
+- title: Exercice 9 sur 9
+  statement: markdowns/alternative9.md
 - title: Exercice facultatif 1 sur 5
   statement: markdowns/alternativef1.md
 - title: Exercice facultatif 2 sur 5
