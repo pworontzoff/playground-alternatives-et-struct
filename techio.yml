@@ -1,4 +1,4 @@
-title: Les alternatives et les structures
+title: 3 - Les alternatives et les structures
 plan:
 - title: Exercice 1 sur 9
   statement: markdowns/alternative1.md
@@ -30,7 +30,6 @@ plan:
   statement: markdowns/alternativef4.md
 - title: Exercice facultatif 5 sur 5
   statement: markdowns/alternativef5.md
-
 projects:
   exercices:
     root: /exercices
