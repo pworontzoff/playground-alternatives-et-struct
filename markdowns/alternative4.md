@@ -38,3 +38,12 @@ dd = Degrees - \left( \frac{Minutes}{60} \right) - \left( \frac{Secondes}{3600} 
 NB : 
 - Les latitudes Nord et longitudes Est ont des degrés positifs. Les latitudes Sud et longitudes Ouest ont des degrés négatifs.
 - Les degrés et les minutes sont des nombres entiers et les secondes peuvent être des réels.
+
+Voici des valeurs de tests pour vérifier que ça fonctionne :
+
+latA = 50° 39' 42"
+longA = 5° 31' 23"
+latB = 49° 0' 3"
+longB = 3° 24' 48"
+
+-> d = 238.753402 (km);
