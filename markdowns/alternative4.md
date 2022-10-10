@@ -34,4 +34,5 @@ dd = Degrees - \left( \frac{Minutes}{60} \right) - \left( \frac{Secondes}{3600} 
 </li>
 </li>
 </ol>
-Les latitudes Nord et longitudes Est sont positives. Les latitudes Sud et longitudes Ouest sont négatives.
+
+NB : Les latitudes Nord et longitudes Est ont des degrés positifs. Les latitudes Sud et longitudes Ouest ont des degrés négatifs.
