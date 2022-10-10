@@ -20,7 +20,7 @@ annee : 1945
 
 Date encodee : 06/12/1945
 ```
-**Remarque:** Pour affichage de la date les zéros initiaux pour les jours et mois doivent apparaître. La syntaxe suivant peut être utilisée dans le `printf` : `%02d`. Cela signifie qu'on affiche au moins 2 caractères qui sont des 0.
+**Remarque:** Pour affichage de la date les zéros initiaux pour les jours et mois doivent apparaître. La syntaxe suivant peut être utilisée dans le `printf` : `%02d`. Cela signifie qu'on affiche au moins 2 caractères en remplissant avec des 0 si nécéssaire.
 
 ```C runnable
 #include <stdlib.h>
