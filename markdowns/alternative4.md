@@ -35,4 +35,6 @@ dd = Degrees - \left( \frac{Minutes}{60} \right) - \left( \frac{Secondes}{3600} 
 </li>
 </ol>
 
-NB : Les latitudes Nord et longitudes Est ont des degrés positifs. Les latitudes Sud et longitudes Ouest ont des degrés négatifs.
+NB : 
+- Les latitudes Nord et longitudes Est ont des degrés positifs. Les latitudes Sud et longitudes Ouest ont des degrés négatifs.
+- Les degrés et les minutes sont des nombres entiers et les secondes peuvent être des réels.
