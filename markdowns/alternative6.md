@@ -22,3 +22,13 @@ la masse volumique ($`\rho_{liquide}`$) de l'eau salée est de 1025 kg/m³ la co
 Ecrire un programme en langage C qui permet de calculer l'aire et le volume d'un tore dont les caractéristiques sont encodées par l'utilisateur. Calculez ensuite la poussée d'Archimède exercée sur le tore lorsqu'il est immergé dans de l'eau salée. Vérifiez que les valeurs encodées par l'utilisateur de votre programme sont acceptables. Si nécessaire, affichez des messages d'erreur.
 
 ![tore](img/alternative8.JPG)
+
+
+Exemple (valeurs de tests) :
+
+- r (en m) : 0.1
+- R (en m) : 0.15
+
+-> L'aire du tore est de 0.592176 m2
+-> Le volume du tore est de 0.029609 m3
+-> La poussee d'archimede exercee sur le tore dans l'eau salee est de 297.724019 Newton (kg.m/s2)
