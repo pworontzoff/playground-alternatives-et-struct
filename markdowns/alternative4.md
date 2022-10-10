@@ -1,6 +1,6 @@
 # Exercice 4
 
-Cet exercice est la suite de l’exercice de localisation d’un DEA. Modifiez votre programme afin de permettre à l’utilisateur du programme d’encoder les informations degrés, minutes, secondes dans une structure.
+Cet exercice est la suite de l’exercice de localisation d’un DEA ([Série 2 (les variables) - Exercice 6](https://tech.io/playgrounds/55269/2---les-variables/exercice-6)). Modifiez votre programme afin de permettre à l’utilisateur du programme d’encoder les informations degrés, minutes, secondes dans une structure.
 
 Il faut écrire 2 fonctions permettant de faciliter la vie de l’utilisateur :
 
