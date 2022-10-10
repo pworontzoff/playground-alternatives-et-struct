@@ -41,9 +41,8 @@ NB :
 
 Voici des valeurs de tests pour vérifier que ça fonctionne :
 
-latA = 50° 39' 42"
-longA = 5° 31' 23"
-latB = 49° 0' 3"
-longB = 3° 24' 48"
-
--> d = 238.753402 (km);
+    latA = 50° 39' 42"
+    longA = 5° 31' 23"
+    latB = 49° 0' 3"
+    longB = 3° 24' 48"
+    -> d = 238.753402 (km);
