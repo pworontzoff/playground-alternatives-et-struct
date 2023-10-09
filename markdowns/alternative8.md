@@ -1,7 +1,8 @@
 # Exercice 8
 
 Ecrire un programme qui demande à l’utilisateur d’entrer les 3 côtés a, b, c d’un triangle et qui, si c’est bien un triangle, affiche si ce triangle est isocèle et/ou rectangle et/ou équilatéral.
-Attention : un triangle n'est possible que si l'inégalité triangulaire est respectée. Ce qui veut dire que la somme des longueurs de deux côtés est toujours plus grande que la longueur du troisième côté
+
+**Attention : un triangle n'est possible que si l'inégalité triangulaire est respectée. Ce qui veut dire que la somme des longueurs de deux côtés est toujours plus grande que la longueur du troisième côté**
 
 Exemples / Tests :
 - triangle impossible : a=1 b=2 c=4
