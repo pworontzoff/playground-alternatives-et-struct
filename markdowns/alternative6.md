@@ -1,4 +1,4 @@
-# Exercice 6
+# Exercice 6 (facultatif)
 
 Tore et poussée d'Archimède
 
