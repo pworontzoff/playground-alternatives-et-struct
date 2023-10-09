@@ -12,7 +12,7 @@ plan:
   statement: markdowns/alternative4.md
 - title: Exercice 5 sur 9
   statement: markdowns/alternative5.md
-- title: Exercice 6 sur 9
+- title: Exercice 6 sur 9 (facultatif)
   statement: markdowns/alternative6.md
 - title: Exercice 7 sur 9
   statement: markdowns/alternative7.md
