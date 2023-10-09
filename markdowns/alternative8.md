@@ -5,7 +5,7 @@ Ecrire un programme qui demande à l’utilisateur d’entrer les 3 côtés a, b
 **Attention : un triangle n'est possible que si l'inégalité triangulaire est respectée. Ce qui veut dire que la somme des longueurs de deux côtés est toujours plus grande que la longueur du troisième côté**
 
 Petite aide :
- - Pour vérifier qu'un triangle est rectangle, on doit s'assurer que la propriété a² = b² + c² est vérifiée pour un des 3 cas possibles (a² = b² + c² ou <style color="red">b² = a² + c²</style> ou c² = a² + b²).
+ - Pour vérifier qu'un triangle est rectangle, on doit s'assurer que la propriété a² = b² + c² est vérifiée pour un des 3 cas possibles (a² = b² + c² ou <span style="color : red">b² = a² + c²</span> ou c² = a² + b²).
  - Attention, car des erreurs d'arrondis vont très souvent conduire à conclure que x² n'est pas = à y² + z² (alors que c'est le cas), simplement parce que les calculs faits par le processeurs ne sont pas exacts (ils ne sauraient jamais l'être pour tous les nombres).
  - Pour solutionner le point précédent, il faut :
     1) avoir le plus possible de précision (de décimales correctes) en entrée pour a, b et c et donc ces variables doivent être de type double (avec code de format %lf pour les scanf)
