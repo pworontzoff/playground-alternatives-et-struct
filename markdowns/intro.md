@@ -1,6 +1,9 @@
-# Exercices sur les variables (et les opérations / calculs de base)
+# Exercices sur les alternatives, le debogueur (et les structures)
 
-Cette série d'exercice est à résoudre avec Visual Studio disponible gratuitement (https://ecolevirtuelle.provincedeliege.be/ctrl/ctrl_gestion.openDocument?p_idNode=1177603)
+Sauf si l'énoncé permet d'encoder directement du code, cette série d'exercice est à résoudre avec Visual Studio.
+
+## Pour rappel
+Visual Studio est disponible gratuitement (https://ecolevirtuelle.provincedeliege.be/ctrl/ctrl_gestion.openDocument?p_idNode=1177603)
 
 Une fois Visual Studio installé, vous pouvez créer **un projet par exercice** !! (Fichiers > Nouveau > Projets...) 
 
