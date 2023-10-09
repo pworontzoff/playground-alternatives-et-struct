@@ -20,15 +20,15 @@ plan:
   statement: markdowns/alternative8.md
 - title: Exercice 9 sur 9
   statement: markdowns/alternative9.md
-- title: Exercice facultatif 1 sur 5
+- title: Exercice facultatif 1 sur 5 (facultatif)
   statement: markdowns/alternativef1.md
-- title: Exercice facultatif 2 sur 5
+- title: Exercice facultatif 2 sur 5 (facultatif)
   statement: markdowns/alternativef2.md
-- title: Exercice facultatif 3 sur 5
+- title: Exercice facultatif 3 sur 5 (facultatif)
   statement: markdowns/alternativef3.md
-- title: Exercice facultatif 4 sur 5
+- title: Exercice facultatif 4 sur 5 (facultatif)
   statement: markdowns/alternativef4.md
-- title: Exercice facultatif 5 sur 5
+- title: Exercice facultatif 5 sur 5 (facultatif)
   statement: markdowns/alternativef5.md
 projects:
   exercices:
