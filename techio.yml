@@ -1,5 +1,7 @@
 title: 3 - Les alternatives, le debogeur et les structures
 plan:
+- title: Introduction
+  statement: markdowns/intro.md
 - title: Exercice 1 sur 9
   statement: markdowns/alternative1.md
 - title: Exercice 2 sur 9
