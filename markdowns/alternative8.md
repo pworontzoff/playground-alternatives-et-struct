@@ -5,11 +5,11 @@ Ecrire un programme qui demande à l’utilisateur d’entrer les 3 côtés a, b
 **Attention : un triangle n'est possible que si l'inégalité triangulaire est respectée. Ce qui veut dire que la somme des longueurs de deux côtés est toujours plus grande que la longueur du troisième côté**
 
 Petite aide :
- - Pour vérifier qu'un triangle est rectangle, on doit s'assurer que la propriété a² = b² + c² est vérifiée pour un des 3 cas possibles (a² = b² + c² ou <span style="color : red">b² = a² + c²</span> ou c² = a² + b²).
+ - Pour vérifier qu'un triangle est rectangle, on doit s'assurer que la propriété a² = b² + c² est vérifiée pour un des 3 cas possibles (a² = b² + c² ou <span style="color : red">b² = a² + c²</span> ou <span style="color : red">c² = a² + b²</span>).
  - Attention, car des erreurs d'arrondis vont très souvent conduire à conclure que x² n'est pas = à y² + z² (alors que c'est le cas), simplement parce que les calculs faits par le processeurs ne sont pas exacts (ils ne sauraient jamais l'être pour tous les nombres).
  - Pour solutionner le point précédent, il faut :
     1) avoir le plus possible de précision (de décimales correctes) en entrée pour a, b et c et donc ces variables doivent être de type double (avec code de format %lf pour les scanf)
-    1) avant de comparer les valeurs données par a² d'une part et par (b² + c²) d'autre part (ou les 2 autres versions), il faudra **caster le résultat en float** ce qui permettra de perdre de la précision, et c'est exactement ce qui nous arrange car dans ce cas, en perdant la précision, nous perdons aussi les erreurs d'arrondis !
+    1) avant de comparer les valeurs données par a² d'une part et par (b² + c²) d'autre part (ou <span style="color : red">les 2 autres versions</span>), il faudra **caster le résultat en float** ce qui permettra de perdre de la précision, et c'est exactement ce qui nous arrange car dans ce cas, en perdant la précision, nous perdons aussi les erreurs d'arrondis !
 
 Exemples / Tests :
 - triangle impossible : a=1 b=2 c=4
