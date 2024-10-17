@@ -37,6 +37,7 @@ dd = Degrees - \left( \frac{Minutes}{60} \right) - \left( \frac{Secondes}{3600} 
 
 NB : 
 - Les latitudes Nord et longitudes Est ont des degrés positifs. Les latitudes Sud et longitudes Ouest ont des degrés négatifs.
+- L'utilisateur pourrait notamment encoder un angle négatif sous la forme 0° -39' 42" ou 0° 0' -42" 
 - Les degrés et les minutes sont des nombres entiers et les secondes peuvent être des réels.
 
 Voici des valeurs de tests pour vérifier que ça fonctionne :
